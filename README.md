@@ -1,1 +1,1 @@
-# Kairos-Watch-Landing-Page
+# Kairos-Watch-Frontend
